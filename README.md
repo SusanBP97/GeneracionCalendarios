@@ -1,0 +1,1 @@
+El siguiente repositorio contiene un procedimiento almacenado (SP) desarrollado en SQL, cuyo objetivo es generar diferentes calendarios de nómina de acuerdo con el tipo de periodicidad requerida, como semanal, quincenal, mensual, entre otras.
